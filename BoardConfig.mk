@@ -143,6 +143,7 @@ BOARD_HAS_MTK_HARDWARE := true
 BOARD_USES_MTK_HARDWARE := true
 MTK_HARDWARE := true
 
+TW_THEME := portrait_hdpi
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/system/etc/recovery.fstab
 RECOVERY_SDCARD_ON_DATA := true
 BOARD_HAS_NO_REAL_SDCARD := true
